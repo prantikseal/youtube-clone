@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## [Live Link](https://ytvids.netlify.app/)
+
+## [![Netlify Status](https://api.netlify.com/api/v1/badges/3c00d447-0e56-4c71-aa8d-b5ff1fdce496/deploy-status)](https://app.netlify.com/sites/ytvids/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
